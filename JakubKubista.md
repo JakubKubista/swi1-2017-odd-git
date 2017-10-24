@@ -8,7 +8,7 @@ Your favorite city: Salt Lake City
 
 Your favorite vegetable: Lettuce
 
-Your favorite color: ...
+Your favorite color: blue
 
 Your favorite icecream: chocolate
 
