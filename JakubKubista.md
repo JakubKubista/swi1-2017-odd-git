@@ -4,7 +4,7 @@ Row is changed.
 
 Your favorite fruit: Melon
 
-Your favorite city: ...
+Your favorite city: Salt Lake City
 
 Your favorite vegetable: Lettuce
 
