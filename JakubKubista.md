@@ -2,7 +2,7 @@ Please DO NOT delete me (this line).
 
 Row is changed.
 
-Your favorite fruit: ...
+Your favorite fruit: Melon
 
 Your favorite city: ...
 
